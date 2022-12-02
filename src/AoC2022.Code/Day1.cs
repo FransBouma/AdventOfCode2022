@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace AoC2021.Core
+namespace AoC2022.Core
 {
 	public static class Day1
 	{

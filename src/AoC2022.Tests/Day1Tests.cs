@@ -1,9 +1,9 @@
 using System;
 using System.IO;
-using AoC2021.Core;
+using AoC2022.Core;
 using NUnit.Framework;
 
-namespace AoC2021.Tests
+namespace AoC2022.Tests
 {
 	public class Day1Tests
 	{
